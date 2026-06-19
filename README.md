@@ -18,7 +18,11 @@
 - **formato** entregame el road map en md con links a recursos utiles y horarios de estudio para cada tema y un reto/proyecto
 
 ```text
-eres un experto desarrollador  de sofware, tu tarea es crear un road map para aprender spring boot desde cero, soy un  estudiante de ia de segundo semestre tengo 20 años entregame el road map en md con links a recursos utiles y horarios de estudio para cada tema y un reto/proyecto
+eres un experto desarrollador  de sofware, tu tarea es crear un road map
+
+para aprender spring boot desde cero, soy un  estudiante de ia de segundo semestre tengo 20 años entregame
+
+el road map en md con links a recursos utiles y horarios de estudio para cada tema y un reto/proyecto
 ```
 ---
 **inicio de mis creaciones**
@@ -36,7 +40,11 @@ eres un experto desarrollador  de sofware, tu tarea es crear un road map para ap
 - **formato**: hazlo teniendo encuenta que todo se pueda explicar en 1 hora de clase
 
 ```text
-eres un profesor de musica quiero que me hagas un plan de estudio sobre las notas musicales y figuras musicales es para niños de septimo secundaria hazlo teniendo encuenta que todo se pueda explicar en 1 hora de clase
+eres un profesor de musica quiero que me hagas un plan de estudio sobre las notas musicales y
+
+figuras musicales es para niños de septimo secundaria hazlo
+
+teniendo encuenta que todo se pueda explicar en 1 hora de clase
 ```
 
 ![](https://significado.com/contenido/imp/musica.jpg)
@@ -54,7 +62,13 @@ eres un profesor de musica quiero que me hagas un plan de estudio sobre las nota
 - **formato**:hazlo teniendo encuenta que los alumnos tengan un pequeño espacio para tomar agua la clase es de dos horas
 
 ```text
-piensa como un entrenador exigente de futbol, haz ejercicios  para mejorar la velocidad en futbol,es para adolecentes de 16 años, hazlo teniendo encuenta que los alumnos tengan un pequeño espacio para tomar agua la clase es de dos horas
+piensa como un entrenador exigente de futbol, haz ejercicio
+
+para mejorar la velocidad en futbol,es para adolecentes de 16 años,
+
+hazlo teniendo encuenta que los alumnos tengan un pequeño espacio
+
+para tomar agua la clase es de dos horas
 ```
 ![](https://i0.wp.com/paginadelespanol.com/wp-content/uploads/2018/08/Definiciones-sobre-futbol.png?resize=1170%2C1620&ssl=1)
 ---
@@ -70,7 +84,9 @@ piensa como un entrenador exigente de futbol, haz ejercicios  para mejorar la ve
 - **formato**:hazlo teniendo encuenta que no sean juegos largos pero tampoco cortos
 
 ```text
-pinsa como un gamer profecional dime los 5 mejores juegos para pc es para una competencia y ganar 1 millon de pesos hazlo teniendo encuenta que no sean juegos largos pero tampoco cortos
+pinsa como un gamer profecional dime los 5 mejores juegos para pc es para una competencia y
+
+ganar 1 millon de pesos hazlo teniendo encuenta que no sean juegos largos pero tampoco cortos
 ```
 ![](https://www.mentsalud.com/wp-content/uploads/2018/11/videojuegos-ninos-e1542627077194.jpg)
 ---
@@ -86,7 +102,11 @@ pinsa como un gamer profecional dime los 5 mejores juegos para pc es para una co
 - **formato**:hazlo que el plato no necesite muchos ingredientes (menos de 15) y se pueda hacer en maximo dos horas
 
 ```text
-piensa como un chef que cocina la comida mas rica del mundo haz un platillo facil de hacer pero que sea muy rico es para impresionar a toda mi familia hazlo que el plato no necesite muchos ingredientes (menos de 15) y se pueda hacer en maximo dos horas
+piensa como un chef que cocina la comida mas rica del mundo haz un platillo facil de hacer
+
+pero que sea muy rico es para impresionar a toda mi familia hazlo que el plato no necesite muchos ingredientes
+
+(menos de 15) y se pueda hacer en maximo dos horas
 
 ```
 ![](https://imagenes.elpais.com/resizer/v2/26YDIS3J4BAADIM6BXJQ2K3BNU.jpg?auth=19bc0c9950ec3ff03f58014aeab4e1a30dec57bf38506b3203bba08f2ba2f39b&width=1200)
@@ -103,7 +123,11 @@ piensa como un chef que cocina la comida mas rica del mundo haz un platillo faci
 - **formato**:hazlo que las ia sean super faciles de usar y super buenas creando videojuegos
 
 ```text
-piensa como un programador profecional que tiene muchos años programando videojuegos dime 5 paginas con ia para crear los mejores videojuegos es para un proyecto final de mi universidad de programacion hazlo que las ia sean super faciles de usar y super buenas creando videojuegos
+piensa como un programador profecional que tiene muchos años programando videojuegos dime 5 paginas con ia
+
+para crear los mejores videojuegos es para un proyecto final de mi universidad de programacion hazlo que las ia
+
+sean super faciles de usar y super buenas creando videojuegos
 ```
 ![](https://larueca.org/wp-content/uploads/2020/10/videojuegis.jpg)
 
