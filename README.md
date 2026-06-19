@@ -106,3 +106,7 @@ piensa como un chef que cocina la comida mas rica del mundo haz un platillo faci
 piensa como un programador profecional que tiene muchos años programando videojuegos dime 5 paginas con ia para crear los mejores videojuegos es para un proyecto final de mi universidad de programacion hazlo que las ia sean super faciles de usar y super buenas creando videojuegos
 ```
 ![](https://larueca.org/wp-content/uploads/2020/10/videojuegis.jpg)
+
+#Inforagia notbook lm
+
+![](Poder_global_del_fútbol_internacional.png)
