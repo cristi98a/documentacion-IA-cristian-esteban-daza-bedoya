@@ -107,6 +107,6 @@ piensa como un programador profecional que tiene muchos años programando videoj
 ```
 ![](https://larueca.org/wp-content/uploads/2020/10/videojuegis.jpg)
 
-#Inforagia notbook lm
+# Inforagia NotebookLM
 
 ![](Poder_global_del_fútbol_internacional.png)
